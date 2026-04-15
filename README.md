@@ -85,7 +85,3 @@ Alto/
 
 ---
 
-
-
-- Backend API: See `GUIDE_*.md` files in `alto-pairing/` folder
-
