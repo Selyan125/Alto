@@ -13,16 +13,6 @@ A Flutter-based encrypted messaging app with end-to-end RSA encryption. Two user
 - ✅ RESTful API integration
 - ✅ Multi-type message exchange
 
-**Note:** This is a 2-user secure messaging system, not a multi-user chat application.
-
----
-
-## 👥 Team
-
-| Member | Role | Responsibilities |
-|--------|------|------------------|
-| Selyan125 | Full Stack | All parts (pairing, crypto, UI, services) |
-
 ---
 
 ## ✨ Features Implemented
@@ -53,7 +43,6 @@ A Flutter-based encrypted messaging app with end-to-end RSA encryption. Two user
 - [ ] Relation management UI
 - [ ] Contact list with selection
 
-**Total: 15.5/20 points (77.5%)**
 
 ---
 
@@ -354,6 +343,3 @@ For issues or questions:
 - [Material Design](https://material.io/design)
 - Backend API: See `GUIDE_*.md` files in `alto-pairing/` folder
 
----
-
-**Last Updated:** April 13, 2026
